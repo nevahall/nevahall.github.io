@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title_separator          : "-"
-name                     : "Robin Hokie: Communication Portfolio"
+name                     : "Neva Hall: Communication Portfolio"
 description              : >
-  Professional portfolio for Robin Hokie, School of Communication,
+  Professional portfolio for Neva Hall, School of Communication,
   Virginia Tech, including work from CMST 4714: The Human Communicator in an
   Era of AI.
 
@@ -26,11 +26,11 @@ description              : >
 url                      : "https://nevahall.github.io"            # -> "https://yourusername.github.io"
 baseurl                  : ""         # -> ""
 repository               : "nevahall/nevahall.github.io"  # -> "yourusername/yourusername.github.io"
-title                    : "Neva Hall's Professional Portfolio!" # the name shown in the maroon header bar and browser tab
+title                    : "Neva Hall's Professional Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Neva Hall"
   avatar   : "/images/bio-photo.jpg"
-  bio      : "Senior, School of Communication, Virginia Tech. Interested in how human communicators build meaning in AI-mediated environments."
+  bio      : "Senior, School of Communication, Virginia Tech."
   location : "Blacksburg, VA"
   email    : "nevahall25@vt.edu"
   github   : "nevahall"    # username only, no URL — set blank to hide
