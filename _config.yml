@@ -25,7 +25,7 @@ description              : >
 # Replace "vt-evia" with your GitHub username, and set baseurl to "" (empty quotes).
 url                      : "https://nevahall.github.io"            # -> "https://yourusername.github.io"
 baseurl                  : ""         # -> ""
-repository               : "vt-evia/cmst4714-portfolio-template"  # -> "yourusername/yourusername.github.io"
+repository               : "nevahall/nevahall.github.io"  # -> "yourusername/yourusername.github.io"
 title                    : "Neva Hall's Professional Portfolio" # the name shown in the maroon header bar and browser tab
 author:
   name     : "Neva Hall"
